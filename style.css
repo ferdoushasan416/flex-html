@@ -1071,10 +1071,10 @@ Hero CSS Start
 
 @media only screen and (max-width:1199px) {
   .footer-menu ul {
-    gap: 30px;
+    gap: 18px;
   }
   .footer-menu ul li a {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 @media only screen and (max-width:991px) {
